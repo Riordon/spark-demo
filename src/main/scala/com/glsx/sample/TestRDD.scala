@@ -1,4 +1,4 @@
-package com.glsx.main
+package com.glsx.sample
 
 import org.apache.spark.{SparkConf, SparkContext}
 

@@ -1,10 +1,11 @@
-package com.glsx.main
+package com.glsx.sample
 
 /**
   * Created by xiaolong on 2016/8/1.
   */
-import scala.math.random
 import org.apache.spark._
+
+import scala.math.random
 
 /** Computes an approximation to pi */
 object SparkPi {
